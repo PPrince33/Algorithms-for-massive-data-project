@@ -1,6 +1,6 @@
 # Market Basket Analysis - Amazon Books Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/market_basket_analysis_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//market_basket_analysis_clean.ipynb)
 
 ## Overview
 Implementation of market basket analysis for book recommendations using frequent itemsets and association rules.
