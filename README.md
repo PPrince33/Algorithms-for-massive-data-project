@@ -1,27 +1,33 @@
 # Market Basket Analysis - Amazon Books Dataset
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PPrince33/Algorithms-for-massive-data-project/blob/main/market_basket_analysis_clean.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PPrince33/market-basket-analysis/blob/main/market_basket_analysis_final.ipynb)
 
 ## Overview
-Implementation of market basket analysis for book recommendations using frequent itemsets and association rules.
+Implementation of market basket analysis for book recommendations using frequent itemsets and association rules on Amazon Books Review dataset.
+
+## Dataset
+- **Source**: [Amazon Books Reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
+- **Files**: Books_rating.csv + books_data.csv
+- **Scope**: User reviews and book metadata
 
 ## Features
-- Scalable frequent itemset mining using Apriori algorithm
-- Multi-strategy recommendation system (association rules + genre-based)
-- Rating-weighted recommendations
+- Scalable frequent itemset mining (Apriori algorithm)
+- Association rule generation with confidence/lift metrics
+- Personalized recommendation system
 - Interactive visualizations and network graphs
+- Performance optimization and caching
 
 ## Usage
-1. Open the notebook in Google Colab using the badge above
-2. Set your Kaggle API credentials
-3. Run all cells to execute the complete analysis
+1. Open notebook in Colab using badge above
+2. Add your Kaggle API credentials
+3. Run all cells for complete analysis
 
 ## Results
-- Discovered X frequent itemsets with support > 0.01
-- Generated Y association rules with confidence > 0.5
-- Achieved Z% recommendation accuracy
+- Discovers book association patterns
+- Generates recommendation rules
+- Provides business insights for cross-selling
 
 ## Files
-- `market_basket_analysis_clean.ipynb` - Main analysis notebook
-- `report.pdf` - Detailed technical report
+- `market_basket_analysis_final.ipynb` - Main analysis
+- `report.pdf` - Technical documentation
 - `src/` - Supporting Python modules
