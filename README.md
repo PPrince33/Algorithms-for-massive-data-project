@@ -1,4 +1,4 @@
-# 📘 Algorithms for Massive Data — Project 2  
+# 📘 Algorithms for Massive Data — Project 
 ### **Market-Basket Analysis on Amazon Books Reviews**
 **Author:** Precious Prince  
 **Program:** MSc in Data Science for Economics  
@@ -116,16 +116,7 @@ This makes it ideal for large-scale recommendation systems and market-basket ana
 
 ---
 
-## 📂 Project Structure
-AMD_Project2_PreciousPrince/
-│
-├── AMD_Project2_PreciousPrince.ipynb       # Full code and outputs
-├── AMD_Project2_Report_PreciousPrince.pdf  # Final report (LaTeX)
-├── amazon_books_reviews/                   # Sample dataset
-│   ├── Books_rating.csv
-│   └── books_data.csv
-└── README.md                               # Project summary
----
+
 
 ## 🧾 Declaration
 
